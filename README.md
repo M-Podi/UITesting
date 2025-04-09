@@ -111,6 +111,6 @@ Both implementations automate the following steps on the [DemoQA Practice Form](
 ## References
 
 1. [BrowserStack: Cypress vs Selenium Comparison](https://www.browserstack.com/guide/cypress-vs-selenium)
-2. Cypress Official Documentation
-3. Selenium Official Documentation
+2. [Cypress Official Documentation](https://docs.cypress.io/app/get-started/why-cypress)
+3. [Selenium Official Documentation](https://www.selenium.dev/documentation/)
 4. [DemoQA Practice Form](https://demoqa.com/automation-practice-form)
